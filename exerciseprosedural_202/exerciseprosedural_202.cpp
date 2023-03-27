@@ -33,7 +33,7 @@ int main() {
             candidates[i].accepted = false;
         }
     }
-
+ 
     cout << "Daftar kandidat dan status penerimaan: " << endl;
     cout << "nama\tstatus" << endl;
     for (int i = 0; i < 20; i++) {
